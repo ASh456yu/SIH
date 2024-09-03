@@ -14,8 +14,8 @@ function About() {
                 <div className="card">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
-                        </div>
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
+                            </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Vedansh Mangal</h5>
                         <p className='text-slate-500 text-lg mt-3'>Monk.</p>
                         <div className='flex'>
@@ -28,7 +28,7 @@ function About() {
                 <div className="card">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
                         </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Chayandeep Roy</h5>
                         <p className='text-slate-500 text-lg mt-3'>Good Boy.</p>
@@ -42,7 +42,7 @@ function About() {
                 <div className="card">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
                         </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Parth</h5>
                         <p className='text-slate-500 text-lg mt-3'>Playboy.</p>
@@ -56,7 +56,7 @@ function About() {
                 <div className="card">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
                         </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Shreyash Bhau</h5>
                         <p className='text-slate-500 text-lg mt-3'>Multitalented.</p>
@@ -70,7 +70,7 @@ function About() {
                 <div className="card">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
                         </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Aditi</h5>
                         <p className='text-slate-500 text-lg mt-3'>EEE-B Topper.</p>
@@ -84,7 +84,7 @@ function About() {
                 <div className="card ">
                     <div className='p-5 flex flex-col'>
                         <div className="rounded-xl overflow-hidden">
-                            <img className='max-h-40' src="/images/sun jung woo.jpg" alt="" />
+                            <img className='max-h-40' src="https://imgs.search.brave.com/ivCfy2jozPZq6CBB-OzY0g7kWzJBAypzNdYDgSwkO6s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxOC8w/My8yNC8xMi81MC9o/dW1hbi0zMjU2NTY3/XzY0MC5qcGc" alt="Logo" />
                         </div>
                         <h5 className='text-2xl md:text-3xl font-medium mt-3'>Nikhil</h5>
                         <p className='text-slate-500 text-lg mt-3'>EEE-A Topper.</p>
