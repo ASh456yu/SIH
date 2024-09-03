@@ -14,7 +14,7 @@ function HeaderTop() {
                     <div>
                         <ul className='flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-6'>
                             <li>
-                                <a className='hover:text-red-500 hover:text-base' href="/SIH/">Home</a>
+                                <a className='hover:text-red-500 hover:text-base' href="/SIH/home">Home</a>
                             </li>
                             <li>
                                 <a className='hover:text-red-500' href="/SIH/about">About Us</a>
