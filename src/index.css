@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+* {
+  font-family: "Playwrite CU", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  scrollbar-width: none;
+}
+
+.border-change{
+  border-radius: 20px;
+}
+
+@layer components{
+  .card{
+    @apply rounded-xl shadow-lg bg-gradient-to-t from-[#58e953] to-[#e6b822];
+  }
+}
