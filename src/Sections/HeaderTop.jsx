@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 
 function HeaderTop() {
     
@@ -17,10 +17,10 @@ function HeaderTop() {
                     <div>
                         <ul className='flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-6'>
                             <li>
-                                <a className='hover:text-red-500 hover:text-base' href="/SIH/">Home</a>
+                                <Link className='hover:text-red-500 hover:text-base' to="/SIH/">Home</Link>
                             </li>
                             <li>
-                                <a className='hover:text-red-500' href="/SIH/about">About Us</a>
+                                <Link className='hover:text-red-500' to="/SIH/about">About Us</Link>
                             </li>
                         </ul>
                     </div>
