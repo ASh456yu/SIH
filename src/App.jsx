@@ -1,23 +1,20 @@
 import React, { useState } from 'react';
 import { IoMdMenu } from "react-icons/io";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
-import Home from './components/Home';
-import About from './components/About';
+import Home from './pages/Home';
+import About from './pages/About';
 import FooterBottom from './Sections/FooterBottom';
 import HeaderTop from './Sections/HeaderTop';
-
+import { HashRouter } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 
 const App = () => {
+
 
   return (
     <>
       <HeaderTop></HeaderTop>
-      <BrowserRouter>
-        <Routes>
-          <Route path='/SIH/' element={<Home />} />
-          <Route path='/SIH/about' element={<About />} />
-        </Routes>
-      </BrowserRouter>
+      <Outlet></Outlet>
       <FooterBottom></FooterBottom>
     </>
   );
